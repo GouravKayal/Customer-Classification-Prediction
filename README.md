@@ -5,13 +5,15 @@ The dataset contains customer-related attributes, and the goal is to classify an
 
 Features:-
 Data Preprocessing: Handles missing values, encodes categorical variables, and removes outliers.
+
 Feature Scaling: Normalizes numerical data for better model performance.
+
 Model Training: Uses a RandomForest classifier to classify customer data.
 Model Evaluation: Provides accuracy, confusion matrix, and classification report.
 
 Technologies Used:-
-Python
-Pandas
-NumPy
-Scikit-Learn
+Python, 
+Pandas, 
+NumPy, 
+Scikit-Learn, 
 SciPy
